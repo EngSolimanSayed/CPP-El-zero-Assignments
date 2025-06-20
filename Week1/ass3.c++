@@ -2,9 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "|=======================|\n"
-         << "|== Elzero Web School ==|\n"
-         << "|==        C++        ==|\n"
-         << "|=======================|";
+    cout << "Iam Learning Programming\nWith\nElzero\nWeb\nSchool\n<3";
     return 0;
 }

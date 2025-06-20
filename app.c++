@@ -21,6 +21,5 @@ int main(void) {
     cout << "Your age in hours   : " << age_in_hours << endl;
     cout << "Your age in minutes : " << age_in_minutes << endl;
     cout << "Your age in seconds : " << age_in_seconds << endl;
-
     return 0;
 }
